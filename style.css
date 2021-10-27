@@ -1,0 +1,144 @@
+body {
+  background: #eeedbe;
+  color: #63635e;
+  font-size: 13px;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+}
+
+.top {
+  font-size: 25px;
+  padding: 30px;
+  font-weight: lighter;
+  text-align: center;
+  line-height: 200%;
+  font-family: 'Zen Antique Soft', serif;
+  letter-spacing: 6px;
+  color: #63635e;
+  text-shadow: -1px 0 #d1d1cc, 0 1px #d1d1cc, 1px 0 #d1d1cc, 0 -1px #9b9b96;
+}
+
+.card {
+  padding: 10px;
+  font-weight: lighter;
+  text-align: center;
+  line-height: 200%;
+  margin: 0 5px;
+}
+
+.icon-margin {
+  padding-top: 10px;
+}
+
+.list-inline {
+  padding: 0px;
+  font-weight: lighter;
+  text-align: center;
+  list-style-type: none;
+  margin-top: 10px;
+}
+
+.icon {
+  display: inline;
+  font-size: 25px;
+  margin: 0 10px;
+}
+
+.btn-class {
+  color: #63635e;
+  background:rgb(247, 247, 247);
+  padding: 14px;
+  border-radius: 15px;
+  text-decoration: none;
+  border: 2px solid rgb(219, 219, 211);
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  font-family: 'Montserrat', sans-serif;
+  font-size: 9px;
+}
+
+.btn-class:hover {
+  text-decoration: none;
+  background:rgb(240, 240, 240);
+}
+
+.fab {
+  color: #63635e;
+}
+
+.fab:hover {
+  color: #424242;
+}
+
+.card-padding {
+  margin: 0px;
+  padding: 10px;
+}
+
+.btn-card {
+  padding: 10px;
+  font-weight: lighter;
+  text-align: center;
+  line-height: 200%;
+  margin: 0 5px;
+}
+
+.footer-font {
+  margin: 0px;
+  font-weight: lighter;
+  color: #63635e;
+  font-size: 11px;
+}
+
+.icon-margin {
+  padding: 2px;
+}
+
+.bg {
+ background-color:rgb(219, 200, 174);
+ padding: 3px;
+}
+
+#avatar {
+  text-align: center;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  padding: 0px;
+  margin: 0px;
+  border: 3px solid rgb(247, 247, 247);
+  box-shadow: 0 10px 30px rgba(0,0,0,.2);
+}
+
+#card-avatar {
+  margin: 0 auto;
+  text-align: center;
+}
+
+#card-background-avatar {
+  text-align: center;
+  background: rgb(226, 225, 177);
+  margin: 100 auto;
+}
+
+#card-padding-social {
+  background: rgb(247, 247, 247);
+  border: 2px solid rgb(219, 219, 211);
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  border-radius: 15px;
+  height: 45px;
+  width: 153px;
+  margin: auto auto;
+}
+
+#button-padding {
+  padding: 25px;
+}
+
+#footer {
+  padding: 15px;
+  background: rgb(226, 225, 180);
+  margin: 0px;
+  height: 3px;
+  text-align: left;
+}
